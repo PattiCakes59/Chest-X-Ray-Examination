@@ -70,4 +70,4 @@
 - F1 = (2 * Precision * Recall) / (Precision + Recall)
  - F1 Score can be a better measure to use if we need to seek a balance between precision and recall. Especially if there is an uneven class distribution (large number of actual negatives).
 
-![download-1.png]
+![alt text](PresentationImages/download-1.png)
