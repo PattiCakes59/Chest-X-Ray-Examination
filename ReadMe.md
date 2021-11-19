@@ -49,7 +49,7 @@
  2. TruncatedNormal - Generates value using truncated normal distribution of input data. The truncated normal distribution is the probability distribution derived from that of a normally distributed random variable by bounding the random variable from either below or above.
 
 ### Important things to think about before starting to build a CNN model:
-1. Always begin with a lower filter value such as 32 and begin to increase it layer wise. (find out why?)
+1. Always begin with a lower filter value such as 32 and begin to increase it layer wise. 
 2. Construct the model with a layer of Conv2D followed by a layer of MaxPooling.
 3. The kernel_size is a preferred odd number like 3x3.
 4. Tanh, relu, etc. can be used for an activation function, but relu is the most preferred choice.
