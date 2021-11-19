@@ -1,6 +1,6 @@
 ## Chest X-Ray Prediction
 
-![1_Ig0f5fAZqytQjdFV7drlAQ.gif](attachment:1_Ig0f5fAZqytQjdFV7drlAQ.gif)
+download.png
 
 ## Data Understanding¶
 - The data comes from chest X-ray images (anterior-posterior) that were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou.
